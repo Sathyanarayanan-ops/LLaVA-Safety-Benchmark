@@ -1,1 +1,1 @@
-# -LLaVA-Safety-Benchmark
+# LLaVA-Safety-Benchmark
